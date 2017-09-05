@@ -1,5 +1,3 @@
-// https://www.hackerrank.com/challenges/solve-me-first
-
 #include <stdio.h>
 
 int solveMeFirst(int a, int b) {
